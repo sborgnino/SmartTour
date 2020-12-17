@@ -1,2 +1,2 @@
-# overtourism
-Repository for the Final Project at BTS: overtourism problem in Barcelona 
+# Overtourism in Barcelona
+Repository for the Final Project at BTS
